@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+id buttonFinish
+id buttonNext
+id buttonOption1
+id buttonOption2
+id buttonOption3
+id buttonOption4
+id buttonStart
+id buttonSubmit
+id buttonTakeNewQuiz
+id editTextName
+id progressBar
+id textCongrats
+id textProgress
+id textQuestionDetail
+id textQuestionTitle
+id textScore
+layout activity_main
+layout activity_quiz
+layout activity_result
+string app_name

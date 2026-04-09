@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.quiz.app-mergeDebugResources-29:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/tien/.gradle/caches/9.0.0/transforms/d94a7eeec040dfe6ade17b26b9bb8b9a/transformed/appcompat-1.6.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

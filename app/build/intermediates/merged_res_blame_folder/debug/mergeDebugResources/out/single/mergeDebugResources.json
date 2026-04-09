@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.quiz.app-debug-31:/layout_activity_result.xml.flat",
+        "source": "com.quiz.app-main-33:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.quiz.app-debug-31:/layout_activity_quiz.xml.flat",
+        "source": "com.quiz.app-main-33:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.quiz.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.quiz.app-main-33:/layout/activity_main.xml"
+    }
+]
